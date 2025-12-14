@@ -16,12 +16,12 @@ const posts = [
         excerpt: 'Why retro aesthetics are making a comeback in modern web design.',
         link: '#'
     },
-    {
-        title: 'Optimizing React for Space',
-        date: '2023-08-10',
-        excerpt: 'Performance tips for high-fidelity animations and 3D scenes.',
-        link: '#'
-    }
+    // {
+    //     title: 'Optimizing React for Space',
+    //     date: '2023-08-10',
+    //     excerpt: 'Performance tips for high-fidelity animations and 3D scenes.',
+    //     link: '#'
+    // }
 ];
 
 const Blog = () => {
