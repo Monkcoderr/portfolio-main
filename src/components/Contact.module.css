@@ -3,12 +3,12 @@
     background-color: var(--color-bg);
 }
 
-.title {
+/* .title {
     text-align: center;
     color: var(--color-primary);
     text-shadow: 2px 2px 0px var(--color-neon-purple);
     margin-bottom: var(--spacing-xl);
-}
+} */
 
 .container {
     max-width: 800px;
