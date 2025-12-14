@@ -10,13 +10,13 @@
     margin-bottom: var(--spacing-xl);
 }
 
-/* .container {
+.container {
     max-width: 800px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: var(--spacing-xl);
-} */
+}
 
 .info {
     display: flex;
